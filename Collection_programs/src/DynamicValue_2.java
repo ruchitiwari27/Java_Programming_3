@@ -10,9 +10,9 @@ public class DynamicValue_2 {
 
         char ch ;
         Scanner cs= new Scanner(System.in);
-       String a = cs.next();
-         a=a.toLowerCase();
-           ch=a.charAt(0);
+        String a = cs.next();
+        a=a.toLowerCase();
+        ch=a.charAt(0);
 
 
         int count=0;
@@ -26,5 +26,3 @@ public class DynamicValue_2 {
         //System.out.println(""+ch);
     }
 }
-
-
